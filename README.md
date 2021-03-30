@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=essie-noble&show_icons=true&count_private=true&line_height=33&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essie-noble&hide=html&theme=react)
