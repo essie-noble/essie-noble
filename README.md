@@ -1,4 +1,4 @@
-### Hi there, am Esther 👋
+### Hi there, I'm Esther 👋
 ![github stats](https://github-readme-stats.vercel.app/api?username=esther-crypto&show_icons=true&count_private=true&line_height=33&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esther-crypto&hide=html&theme=react)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esther-crypto&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
